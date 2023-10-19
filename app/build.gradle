@@ -1,10 +1,10 @@
 plugins {
-    id 'com.android.application'
+    id 'com.android.application' version '7.4.2'
 }
 
 android {
     namespace 'com.example.applist'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.applist"
